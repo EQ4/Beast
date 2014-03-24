@@ -1604,9 +1604,6 @@
     <ClCompile Include="..\..\beast\crypto\tests\UnsignedInteger.test.cpp">
       <Filter>beast\crypto\tests</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\beast\crypto\tests\BinaryEncoding.test.cpp">
-      <Filter>beast\crypto\tests</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\beast\utility\tests\bassert.test.cpp">
       <Filter>beast\utility\tests</Filter>
     </ClCompile>
@@ -1636,6 +1633,9 @@
     </ClCompile>
     <ClCompile Include="..\..\beast\utility\tests\hardened_hash.test.cpp">
       <Filter>beast\utility\tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\beast\crypto\tests\BinaryEncoding.cpp">
+      <Filter>beast\crypto\tests</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
